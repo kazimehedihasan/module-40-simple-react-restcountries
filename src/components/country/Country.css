@@ -5,3 +5,11 @@
     border-radius: 15px;
     
 }
+
+.visited{
+    background-color: gold;
+}
+
+.visit{
+    background-color: forestgreen;
+}
